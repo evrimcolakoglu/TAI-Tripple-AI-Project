@@ -19,6 +19,10 @@ TAI yazılımı üç ana bileşenden oluşur:
 2.  **RF İletişim Modülü:** Kablosuz veri aktarım katmanı.
 3.  **Ana Kontrol Modülü (AKM):** Karar veren ve komutları işleyen merkezi yazılım.
 
+## Dokümantasyon
+Projenin teknik detayları, UML diyagramları ve gereksinim analizi için aşağıdaki bağlantıyı kullanabilirsiniz:
+👉 [Proje SRS Dokümanı (v1.0)](TAI_SRS_Document.pdf)
+
 ## Proje Dokümantasyonu
 Detaylı teknik analiz, UML diyagramları ve gereksinim listesi için [SRS Dokümanını](TAI_SRS_Document.pdf) inceleyebilirsiniz.
 
