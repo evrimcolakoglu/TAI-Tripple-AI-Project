@@ -13,13 +13,13 @@ SRS dokümanımızda (v1.0) belirtilen başlıca özellikler:
 * **Güvenlik Modu (FR30):** Çip sıcaklığı 35°C'ye ulaşırsa sistem beyni korumak için kendini yavaşlatır.
 * **Çoklu Dil Desteği:** Sistem global kullanım için tasarlanmıştır.
 
-## 🛠 Mimari Yapısı
+## Mimari Yapısı
 TAI yazılımı üç ana bileşenden oluşur:
 1.  **Beyin Çipleri:** Beynin 8 farklı bölgesi üzerinde çalışan çipler ve uyarıcılar.
 2.  **RF İletişim Modülü:** Kablosuz veri aktarım katmanı.
 3.  **Ana Kontrol Modülü (AKM):** Karar veren ve komutları işleyen merkezi yazılım.
 
-## 📄 Proje Dokümantasyonu
+## Proje Dokümantasyonu
 Detaylı teknik analiz, UML diyagramları ve gereksinim listesi için [SRS Dokümanını](TAI_SRS_Document.pdf) inceleyebilirsiniz.
 
 ---
